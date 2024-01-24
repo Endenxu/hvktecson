@@ -38,7 +38,7 @@ const Contact = () => {
                         <SiMinutemailer className='contact__option-icon'/> 
                         <h4> Email</h4>
                     </div>
-                    <a href="mailto:jsnrbn01@gmail.com" target='_blank' rel="noreferrer" arial-label="You can email me by clicking this link">
+                    <a href="mailto:hughvenkyletecson@gmail.com" target='_blank' rel="noreferrer" arial-label="You can email me by clicking this link">
                         hughvenkyletecson@gmail.com
                     </a>
                 </article>
