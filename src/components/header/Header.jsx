@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import CTA from './CTA'
 import './header.css'
-import ME from '../../assets/header_me.webp'
+import ME from '../../assets/header_me2.webp'
 import Socials from './Socials'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
