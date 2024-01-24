@@ -1,4 +1,4 @@
-import Logo from '../../assets/favicon.webp'
+import Logo from '../../assets/faviconhvkt.webp'
 import { useState, useEffect } from 'react'
 import 'aos/dist/aos.css'
 import { BsInstagram, BsLinkedin, BsTwitter, BsGithub } from 'react-icons/bs'

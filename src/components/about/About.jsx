@@ -39,12 +39,12 @@ const About = () => {
               Some of the technologies I have been working with recently include:
             </p>
             <ul className='about__me-tech text-light' data-aos="zoom-in-up">
-              <li><RxTriangleRight className='about__me-tech-icon'/> javascript</li>
-              <li><RxTriangleRight className='about__me-tech-icon'/> reactjs </li>
-              <li><RxTriangleRight className='about__me-tech-icon'/> nodejs</li>
-              <li><RxTriangleRight className='about__me-tech-icon'/> html5 </li>
-              <li><RxTriangleRight className='about__me-tech-icon'/> css3</li>
-              <li><RxTriangleRight className='about__me-tech-icon'/> taidwindcss</li>
+              <li><RxTriangleRight className='about__me-tech-icon'/> Javascript</li>
+              <li><RxTriangleRight className='about__me-tech-icon'/> Html5 </li>
+              <li><RxTriangleRight className='about__me-tech-icon'/> Css3</li>
+              <li><RxTriangleRight className='about__me-tech-icon'/> Reactjs </li>
+              <li><RxTriangleRight className='about__me-tech-icon'/> Nodejs & Expressjs</li>
+              <li><RxTriangleRight className='about__me-tech-icon'/> MongoDB</li>
             </ul>
           </article>
 

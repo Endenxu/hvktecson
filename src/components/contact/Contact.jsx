@@ -56,7 +56,7 @@ const Contact = () => {
                         <RiWhatsappFill className='contact__option-icon'/> 
                         <h4>WhatsApp</h4>
                     </div>
-                    <a href="https://api.whatsapp.com/send?phone=639752276475" target='_blank' rel="noreferrer" arial-label="Call me on this number">
+                    <a href="https://github.com/Endenxu" target='_blank' rel="noreferrer" arial-label="Call me on this number">
                         +63 945 400 6460
                     </a>
                 </article>

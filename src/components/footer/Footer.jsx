@@ -1,5 +1,5 @@
 import './footer.css'
-import logo from '../../assets/favicon.png'
+import logo from '../../assets/faviconhvkt.png'
 import { BsInstagram } from 'react-icons/bs'
 import { BsLinkedin } from 'react-icons/bs'
 import { BsTwitter } from 'react-icons/bs'
