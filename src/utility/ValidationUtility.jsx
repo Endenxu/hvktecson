@@ -54,7 +54,7 @@ export const sendEmail = (e, setFailed, setSuccess, form) => {
         return;
     }
 
-    emailjs.sendForm(`service_pihc4ad`, `template_6cymg67`, form.current, `PDUdg0JdDTMFftncl`)
+    emailjs.sendForm(`service_guyeje6`, `template_jrpnx47`, form.current, `52xBRQM6QAEtayl1E`)
     .then((result) => {
         form.current.reset();
         setSuccess(true);
