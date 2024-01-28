@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
         <ul className='footer__socials'>
           <li className='footer__social' data-aos='zoom-in' data-aos-delay='200' data-aos-anchor-placement="bottom-bottom">
-            <a href="https://www.facebook.com/Endenxu" rel="noreferrer" target='_blank' aria-label='Get to know me more on instagram'>
+            <a href="https://www.instagram.com/hughvenkyle/" rel="noreferrer" target='_blank' aria-label='Get to know me more on instagram'>
               <BsInstagram className='footer__social-icon' />
             </a>
           </li>
