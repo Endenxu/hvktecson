@@ -3,30 +3,31 @@ import P1 from '../../assets/project1.webp'
 import P2 from '../../assets/project2.webp'
 import P3 from '../../assets/project3.webp'
 
+
 export const FeaturedData = [
     {
-        image: P3,
-        title: "Anime Site",
-        demo: "https://github.com/Endenxu",
-        github: "hhttps://github.com/Endenxu",
-        details: `This anime website application utilizes an API to fetch the most recent anime releases, popular series, and ongoing shows from the current season. It offers various exciting features, including the ability to switch themes, search for specific anime titles, and stream anime content seamlessly. The app also boasts dynamic pages for an interactive user experience, a convenient "last watched" section on the homepage, and automatic fullscreen and next episode playback for uninterrupted enjoyment.`,
-        tech: [ 'React', 'CSS3', 'SwiperJs', 'Consumet Api', 'Vercel']
-    },
-    {
         image: P1,
-        title: "Movie App",
-        demo: "https://github.com/Endenxu",
-        github: "https://github.com/Endenxu",
-        details: "Netflix-inspired movie web app with Trending, Top Rated, Popular, Upcoming, and Latest Movies. Dynamic pages provide detailed information, and there's a search function powered by themoviedb API.",
-        tech: [ 'HTML5', 'CSS3', 'JavaScript', 'WebAPI', 'SwiperJs', 'Vercel']
+        title: "EfforlessAgendas",
+        demo: "https://github.com/Endenxu/EffortlessAgendas",
+        github: "https://github.com/Endenxu/EffortlessAgendas",
+        details: `EffortlessAgendas is a user-friendly platform designed to streamline your agenda management seamlessly. Navigate your agendas effortlessly with our clean and user-friendly design. Collaborate with team members in real-time, making agenda planning a breeze. EffortlessAgendas is powered by a robust tech stack, featuring React for a dynamic frontend, CSS3 for stylish aesthetics, HTML5 for structure, NodeJS & Express for a scalable backend, and MongoDB Atlas for efficient data management. Hosted on Vercel for lightning-fast performance.`,
+        tech: [ 'React', 'CSS3', 'HTML5', 'NodeJS & Express', 'MongoDB Atlas', 'Vercel']
     },
     {
         image: P2,
-        title: "Ecommerce Website",
-        demo: "https://github.com/Endenxu",
-        github: "https://github.com/Endenxu",
-        details: "This is a product-centric multipage e-commerce website that exclusively focuses on selling computer-related items. The website features three main categories: Computer Cards, Desktops, and Accessories.",
-        tech: [ 'HTML5', 'CSS3', 'Bootstrap5', 'JavaScript', 'Vercel']
+        title: "hvktAI - All in AI features",
+        demo: "https://github.com/Endenxu/hvktAI",
+        github: "https://github.com/Endenxu/hvktAI",
+        details: "This website is a hub for AI enthusiasts, offering a range of features powered by advanced technologies. Immerse yourself in the world of artificial intelligence with seamless integration of OpenAI API. Enjoy a smooth user experience on any device with our responsive HTML5 and CSS3 design. Built on Vercel, hvktAI ensures quick and reliable deployment for uninterrupted access to AI features.",
+        tech: [ 'JavaScript', 'CSS3', 'HTML5', 'OpenAI API', 'Vercel']
+    },
+    {
+        image: P3,
+        title: "Portfolio Website",
+        demo: "https://hvktecson.vercel.app/",
+        github: "https://github.com/Endenxu/hvktecson",
+        details: "Discover the creative journey through my portfolio website. This platform showcases a collection of projects and insights, reflecting passion and proficiency in the digital realm. Explore a curated collection of projects presented through an interactive React-based interface. The website boasts a visually appealing design with HTML5 and CSS3, providing a seamless and engaging user experience. nHosted on Vercel, the portfolio website ensures fast and reliable performance.",
+        tech: [ 'React', 'HTML5', 'CSS3', 'Vercel']
     },
 ];
 

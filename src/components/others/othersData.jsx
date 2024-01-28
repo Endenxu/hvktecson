@@ -2,9 +2,9 @@ const othersData = [
     {
         github: 'https://github.com/Endenxu',
         demo: 'https://github.com/Endenxu',
-        title: 'Grocery List',
-        preview: 'This is a personal project, and the app serves as a Todo List or Grocery List. To ensure data propagation, I utilized the useState hook. Additionally, I incorporated the use of localStorage for data storage and data manipulation.',
-        tech: [ 'CSS3', 'Vite + React', 'Vercel']
+        title: 'EfforlessAgendas',
+        preview: 'This is a personal project, and the app serves as a Agenda Setter for meetings and such. To ensure data propagation, I utilized the useState hook. Additionally, I incorporated the use of localStorage for data storage and data manipulation.',
+        tech: [ 'CSS3', 'React', 'Vercel']
     },
     {
         github: 'https://github.com/Endenxu',
@@ -28,18 +28,18 @@ const othersData = [
         tech: [ 'HTML5', 'CSS3', 'JavaScript', 'Vercel']
     },
     {
-        github: 'https://github.com/Endenxu',
+        github: 'https://github.com/Endenxu/hvktAI',
         demo: 'https://github.com/Endenxu',
-        title: 'Ecommerce Website',
-        preview: 'This is a product-centric multipage e-commerce website that exclusively focuses on selling computer-related items. The website features three main categories: Computer Cards, Desktops, and Accessories',
-        tech: ['React', 'Bootstrap5', 'CSS3', 'Vercel']
+        title: 'OpenAI-API',
+        preview: 'This application serves as a learning tool for me to practice OpenAI API to deploy it to my projects. It is designed as a mock portfolio showcasing my skills and experience.',
+        tech: ['JavaScript', 'CSS3', 'OpenAI API']
     },
     {
-        github: 'https://github.com/Endenxu',
+        github: 'https://github.com/Endenxu/Capstone-Project',
         demo: 'https://github.com/Endenxu',
-        title: 'Movie App ',
-        preview: `Netflix-inspired movie web app with Trending, Top Rated, Popular, Upcoming, and Latest Movies. Dynamic pages provide detailed information, and there's a search function powered by themoviedb API.`,
-        tech: [ 'HTML5', 'CSS3', 'JavaScript', 'SwiperJs', 'WebAPI']
+        title: 'AI/ML Capstone Project ',
+        preview: `This my personal thesis/capstone project back in college. We used convolutional neural network (CNN) to sort mangosteen to its preffered class using AI and Image Processing.`,
+        tech: [ 'Python']
     },
 ]
 

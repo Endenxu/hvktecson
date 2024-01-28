@@ -1,4 +1,3 @@
-//import resume from '../../assets/resume.pdf'
 import { handleNavItemClick } from '../../utility/NavUtility'
 
 const CTA = () => {
