@@ -94,9 +94,9 @@
 
 /* ============= IMAGE =============== */
 .header__me-image {
-    background: linear-gradient(var(--primary-color), transparent);
+    background: rgb(86, 86, 178);
     width: 22rem;
-    height: 30rem;
+    height: 28rem;
     margin: 4rem auto 0 auto;
     border-radius: 12rem 12rem 0 0;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
