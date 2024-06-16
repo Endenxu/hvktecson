@@ -7,11 +7,11 @@ import P3 from '../../assets/project3.webp'
 export const FeaturedData = [
     {
         image: P1,
-        title: "EfforlessAgendas",
-        demo: "https://github.com/Endenxu/EffortlessAgendas",
-        github: "https://github.com/Endenxu/EffortlessAgendas",
-        details: `EffortlessAgendas is a user-friendly platform designed to streamline your agenda management seamlessly. Navigate your agendas effortlessly with our clean and user-friendly design. Collaborate with team members in real-time, making agenda planning a breeze. EffortlessAgendas is powered by a robust tech stack, featuring React for a dynamic frontend, CSS3 for stylish aesthetics, HTML5 for structure, NodeJS & Express for a scalable backend, and MongoDB Atlas for efficient data management. Hosted on Vercel for lightning-fast performance.`,
-        tech: [ 'React', 'CSS3', 'HTML5', 'NodeJS & Express', 'MongoDB Atlas', 'Vercel']
+        title: "Me App",
+        demo: "https://github.com/maryvelez/AIFL-App",
+        github: "https://github.com/maryvelez/AIFL-App",
+        details: `Me App is a comprehensive social media health platform designed to empower users in their wellness journey. Me App allows users to monitor their physical activity, track nutritional intake, and log vital health metrics. It features personalized fitness plans, guided meditations, and a supportive community where users can share experiences, seek advice, and find motivation. Integrated with wearable devices, Me App provides real-time health insights, making it easier to set and achieve wellness goals.`,
+        tech: [ 'React Native', 'Tailwind', 'Expo']
     },
     {
         image: P2,
