@@ -23,7 +23,7 @@ export const FeaturedData = [
     },
     {
         image: P3,
-        title: "Ai Usage Webapp",
+        title: "Portfolio ",
         demo: "https://hvktecson.vercel.app/",
         github: "https://github.com/Endenxu/hvktecson",
         details: "Discover the creative journey through my portfolio website. This platform showcases a collection of projects and insights, reflecting passion and proficiency in the digital realm. Explore a curated collection of projects presented through an interactive React-based interface. The website boasts a visually appealing design with HTML5 and CSS3, providing a seamless and engaging user experience. nHosted on Vercel, the portfolio website ensures fast and reliable performance.",
