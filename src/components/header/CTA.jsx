@@ -4,7 +4,7 @@ const CTA = () => {
 
   return (
     <div className='cta' data-aos="fade-up">
-      <a href="https://drive.google.com/file/d/1bZb_aMCnMU7GOWLu-wIW_c_SK5gDS4to/view?usp=drive_link" className='btn' target='_blank' aria-label='Open this link to view my resume'>
+      <a href="https://drive.google.com/file/d/1fgF0M1Wc7jpKpQPwNnXkQgpvEbJUgvQx/view?usp=drivesdk" className='btn' target='_blank' aria-label='Open this link to view my resume'>
           Resumé
         <span className='running-light'></span>
         <span className='running-light'></span>
