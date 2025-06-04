@@ -1,3 +1,5 @@
+//// src/utility/NavUtility.jsx
+
 // nav bar utility
 export const handleNavItemClick = (e, navItem, setActiveHeadNav, setIsMenuOpen) => {
     e.preventDefault();
@@ -5,29 +7,29 @@ export const handleNavItemClick = (e, navItem, setActiveHeadNav, setIsMenuOpen) 
     if (sectionElement) {
         sectionElement.scrollIntoView();
     }
-    if (!setActiveHeadNav) return
-    if (!setIsMenuOpen) return
+    if (!setActiveHeadNav) return;
+    if (!setIsMenuOpen) return;
     setIsMenuOpen(false);
     setActiveHeadNav(navItem);
-    document.body.classList.remove('no-scroll');
+    document.body.classList.remove("no-scroll");
 };
 
 export const closeMenu = (isMenuOpen, setIsMenuOpen) => {
     setIsMenuOpen(false);
-     if (!isMenuOpen) {
-        document.body.classList.remove('no-scroll');
+    if (!isMenuOpen) {
+        document.body.classList.remove("no-scroll");
     } else {
-        document.body.classList.add('no-scroll');
+        document.body.classList.add("no-scroll");
     }
-}
+};
 
 export const toggleMenu = (isMenuOpen, setIsMenuOpen) => {
     setIsMenuOpen(!isMenuOpen);
     if (!isMenuOpen) {
-        document.body.classList.add('no-scroll');
+        document.body.classList.add("no-scroll");
     } else {
-        document.body.classList.remove('no-scroll');
+        document.body.classList.remove("no-scroll");
     }
 };
 
-// 
+//

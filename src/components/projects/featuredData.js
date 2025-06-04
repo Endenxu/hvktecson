@@ -1,32 +1,30 @@
-
-import P1 from '../../assets/project1.webp'
-import P2 from '../../assets/project2.webp'
-import P3 from '../../assets/project3.webp'
-
+import P1 from "../../assets/Tamer.png";
+import P2 from "../../assets/PawSpark.png";
+import P3 from "../../assets/Sdq.png";
 
 export const FeaturedData = [
     {
         image: P1,
-        title: "Sdq",
-        demo: "https://play.google.com/store/apps/details?id=com.sdq.sdqapp&hl=en_US",
-        github: "https://github.com/Endenxu",
-        details: `Sdq Digital Signature Solution is a secure, enterprise-grade mobile application designed to streamline document workflows through advanced digital signature management. This powerful app enables businesses to create, verify, and manage digital signatures with robust encryption, ensuring document authenticity and integrity. Featuring intuitive document uploading, storage, and organization capabilities, along with customizable approval processes`,
-        tech: [ 'React Native', 'Expo', 'Typescript', 'Rest API']
+        title: "Tamer - Sdq",
+        demo: "https://apps.apple.com/us/app/tamer-sdq/id6739184455",
+        github: "#", // Removed - private repo
+        details: `Tamer-Sdq is an innovative digital signature and document management solution developed by Sdq Company to be the ideal solution for managing digital documents and digital signature. The app aims to simplify TAMER's internal processes while ensuring the highest standards of security and compliance with Saudi regulations and international Digital Signature and Electronic Accreditation standards.`,
+        tech: ["React Native", "Expo", "TypeScript", "QR Code Technology"],
     },
     {
         image: P2,
-        title: "Me App",
-        demo: "https://github.com/maryvelez/AIFL-App",
-        github: "https://github.com/maryvelez/AIFL-App",
-        details: `Me App is a comprehensive social media health platform designed to empower users in their wellness journey. Me App allows users to monitor their physical activity, track nutritional intake, and log vital health metrics. It features personalized fitness plans, guided meditations, and a supportive community where users can share experiences, seek advice, and find motivation. Integrated with wearable devices, Me App provides real-time health insights, making it easier to set and achieve wellness goals.`,
-        tech: [ 'React Native', 'Tailwind', 'Expo']
+        title: "PawSpark",
+        demo: "#", // No demo available yet
+        github: "#", // Removed - private repo
+        details: `PawSpark is a comprehensive pet-focused dating and social application that connects pet owners for meaningful relationships. This full-stack mobile application features real-time chat with WebSocket integration, advanced matching algorithms, and a robust social feed system. Built with modern technologies and scalable architecture to handle complex user interactions and data management.`,
+        tech: ["React Native", "Expo", "Node.js", "Express", "Pgsql"],
     },
     {
         image: P3,
-        title: "Portfolio ",
-        demo: "https://hvktecson.vercel.app/",
-        github: "https://github.com/Endenxu/hvktecson",
-        details: "Discover the creative journey through my portfolio website. This platform showcases a collection of projects and insights, reflecting passion and proficiency in the digital realm. Explore a curated collection of projects presented through an interactive React-based interface. The website boasts a visually appealing design with HTML5 and CSS3, providing a seamless and engaging user experience. nHosted on Vercel, the portfolio website ensures fast and reliable performance.",
-        tech: [ 'React', 'Node JS', 'Chrome Extension']
+        title: "Sdq - Digital Signature",
+        demo: "https://apps.apple.com/us/app/sdq-digital-signature/id6738511957?ppid=b1c67383-292b-49df-8e91-13a249c5c31c",
+        github: "#", // Removed - private repo
+        details: `Sdq Digital Signature Solution is a secure, enterprise-grade mobile application designed to streamline document workflows through advanced digital signature management. This powerful B2B app enables businesses to create, verify, and manage digital signatures with robust encryption, ensuring document authenticity and integrity. Features intuitive document uploading, storage, and organization capabilities with customizable approval processes.`,
+        tech: ["React Native", "Expo", "TypeScript", "Digital Signature API"],
     },
 ];
